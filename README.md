@@ -1,5 +1,7 @@
 # Music Tempo Mixer
 
+**Developed by**: Vishal Sinha
+
 **No copyright**: Feel free to copy and use the functions.
 
 JAVA script to increase and decrease tempo of a song.
